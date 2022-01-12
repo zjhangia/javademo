@@ -1,0 +1,7 @@
+
+m	java:S116"SRename this field "base_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š Õ·ÿÿÿÿÿ
+`
+java:S1858">"attr" returns a string, there's no need to call "toString()".(Õ‡ÌÆûÿÿÿÿ8Ç›êıã/
+>	java:S108")Either remove or fill this block of code.(”ı¾
+G
+java:S1068",Remove this unused "base_url" private field.(š Õ·ÿÿÿÿÿ

@@ -1,0 +1,19 @@
+
+n	java:S116
+"TRename this field "image_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùş®©ÿÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(“–ış
+K
+java:S1905"0Remove this unnecessary cast to "URLConnection".(˜ş¢ßúÿÿÿÿ
+C
+java:S1075 "&Remove this hard-coded path-delimiter.(òæŒ•8…Ñ¦ä/
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(„°ó¼ÿÿÿÿÿ
+I
+java:S1121%".Extract the assignment out of this expression.(„°ó¼ÿÿÿÿÿ
+P
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıòŒäøÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İåæœúÿÿÿÿ
+f	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òæŒ•
+g
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ğ·øÿıÿÿÿÿ
